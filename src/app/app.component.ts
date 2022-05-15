@@ -13,12 +13,12 @@ export class AppComponent {
     'Ich esse geren Kekse',
   ];
   hamsterImages = [
-    'assets/hamster/1.jpg',
-    'assets/hamster/2.jpg',
-    'assets/hamster/3.jpg',
-    'assets/hamster/4.jpg',
-    'assets/hamster/5.jpg',
-    'assets/hamster/6.jpg',
+    'assets/hamster/animal-g4d0a5a70e_640.jpg',
+    'assets/hamster/animal-g547839c3c_640.jpg',
+    'assets/hamster/animal-ga27e1abfe_640.jpg',
+    'assets/hamster/hamster-g235dac38d_640.jpg',
+    'assets/hamster/hamster-gf617cd4df_640.jpg',
+    'assets/hamster/nature-g5348f7f86_640.jpg',
   ];
 
   buttonClicked() {
